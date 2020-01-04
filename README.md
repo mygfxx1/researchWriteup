@@ -5,7 +5,7 @@ Report/Submission of each targets disclosed.
 Table of Contents
 =======================
 
-* [Razer](researchWriteup/Razer)
+* [Razer](https://github.com/ESME-Security/researchWriteup/tree/master/Razer)
 ---
 
 
