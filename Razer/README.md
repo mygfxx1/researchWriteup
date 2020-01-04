@@ -4,4 +4,4 @@ Razer looks forward to working with the security community to find vulnerabiliti
 Link to their Bug Bounty Program https://hackerone.com/razer
 
 # Table of Writeups
- - [razer-writeup-0-710319](razer-writeup-0-710319/writeup-0-710319.md)
+ - [razer-writeup-0-710319](writeups/710319.md)
