@@ -1,4 +1,4 @@
-![](https://i.imgur.com/dV0NqwI.jpg)
+![](https://i.imgur.com/mTfb44T.jpg)
 
 Report/Submission of each targets disclosed.
 
